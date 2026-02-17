@@ -1,2 +1,12 @@
-# project-documentation-notes
-project-documentation-notes/ │ ├── git-notes.md ├── ga4-setup.md ├── wordpress-errors.md └── troubleshooting-log.md
+## 👨🏾‍💻 Currently Learning
+- HTML & CSS
+- Git & GitHub
+- Frontend fundamentals
+
+## 🛠 Technical Background
+- GA4 & GTM configuration
+- WordPress troubleshooting
+- Technical support & analytics
+
+## 📚 Focus
+Building a strong foundation in web development while documenting real-world technical workflows.
